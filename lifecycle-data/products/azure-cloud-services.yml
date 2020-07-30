@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Serviços de nuvem do Azure
+  description: Os serviços de nuvem do Azure seguem a política de ciclo de vida moderna.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: aab601bc296dcf08a3f860220bf93b35fa67e335
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pt-BR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "804017"
+name: Serviços de nuvem do Azure
+summary: >+
+  Os serviços de nuvem do Azure seguem a política de ciclo de vida [moderna](/lifecycle/policies/modern) .
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 10/27/2008
+releases:
+- version: Original Release
+  startDate: 10/27/2008
+content: "\n## <a name=\"links\"></a>Links \n* [Informações de política de suporte e aposentadoria do Azure Guest](/azure/cloud-services/cloud-services-guestos-retirement-policy)"

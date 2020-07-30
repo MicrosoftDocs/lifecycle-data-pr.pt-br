@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office Communicator Phone Edition
+  description: O Microsoft Office Communicator Phone Edition segue a política de ciclo de vida fixo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 368d65cc1ace6dffa576cfa9add8d9e3286a6ea9
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pt-BR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "804082"
+name: Microsoft Office Communicator Phone Edition
+summary: >+
+  O Microsoft Office Communicator Phone Edition segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+
+
+  Isso se aplica às seguintes edições: Phone
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/15/2007
+  end: 04/10/2012
+  extendedEnd: 04/11/2017
+releases:
+- version: Original Release
+  startDate: 01/15/2007
+  endDate: 04/11/2017
+content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Das \n* Phone"

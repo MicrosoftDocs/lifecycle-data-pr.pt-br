@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Solução da Microsoft para o Hosted Messaging and Collaboration 4,0
+  description: A solução da Microsoft para o Hosted Messaging and Collaboration 4,0 segue a política de ciclo de vida fixo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d5aad6d836257bdbd054a1e385c6268769a1da05
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pt-BR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "803283"
+name: Solução da Microsoft para o Hosted Messaging and Collaboration 4,0
+summary: >+
+  A solução da Microsoft para o Hosted Messaging and Collaboration 4,0 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/15/2007
+  end: 12/12/2011
+releases:
+- version: Original Release
+  startDate: 07/15/2007
+  endDate: 12/12/2011
+content: ''

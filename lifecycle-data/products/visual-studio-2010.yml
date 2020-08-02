@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2010
+  description: O Visual Studio 2010 segue a política de ciclo de vida fixo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pt-BR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "803258"
+name: Visual Studio 2010
+summary: >+
+  O Visual Studio 2010 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+
+
+  Isso se aplica às seguintes edições: Agents, All, ASP .NET MVC 4, Express, F # 2,0 Runtime, gerenciamento de laboratório, ferramentas de desempenho, Premium, Professional, depurador remoto, SDK, Shell (integrado), Shell (isolado), Teams, Team Explorer, Professional de teste, ferramentas para o Office System 4,0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual C++, Visual Web Developer &
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 06/29/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 03/08/2011
+  endDate: 07/14/2020
+- version: Original Release
+  startDate: 06/29/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>Links \n* [Política de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Das \n* SNMP\n* Todos\n* ASP .NET MVC 4\n* Express\n* Tempo de execução de F # 2,0\n* Gerenciamento de laboratório\n* Ferramentas de desempenho\n* Premium\n* Professional\n* Depurador remoto\n* SDK\n* Shell (integrado)\n* Shell (isolado)\n* Agentes de equipe\n* Gerenciador de equipe\n* Profissional de teste\n* Ferramentas do Office System 4,0 de tempo de execução\n* Palavra\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualização & SDK de modelagem"

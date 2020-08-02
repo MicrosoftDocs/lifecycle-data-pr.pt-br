@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Expressão 2
+  description: A expressão 2 segue a política de ciclo de vida fixo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0ff3dba3df24ff405a22bfacac75ea04ab227f90
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pt-BR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "803176"
+name: Expressão 2
+summary: "A expressão 2 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .\n\nIsso se aplica às seguintes edições: Blend, design, Encoder, Studio, Web\n\n> [!IMPORTANT]\n> O suporte terminou para este produto. \n"
+products:
+- expression
+policyType: fixed
+supportDates:
+  start: 07/24/2008
+  end: 10/08/2013
+  extendedEnd: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 07/24/2008
+  endDate: 10/09/2018
+content: "\n\n\n## <a name=\"editions\"></a>Das \n* Matiz\n* Design\n* Codifica\n* Studio.net\n* Web"

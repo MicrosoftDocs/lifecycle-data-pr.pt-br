@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Office Live Meeting
+  description: O Office Live Meeting segue a política de ciclo de vida moderna.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c4b0ff8ddce1b4b699aae7631879845eed849bf4
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pt-BR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "803648"
+name: Office Live Meeting
+summary: "O Office Live Meeting segue a política de ciclo de vida [moderna](/lifecycle/policies/modern) .\n\nIsso se aplica às seguintes edições: Standard\n\n> [!IMPORTANT]\n> O suporte para este serviço foi finalizado. Veja as diretrizes de migração abaixo. \n"
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 04/10/2009
+  end: 12/31/2017
+releases:
+- version: Original Release
+  startDate: 04/10/2009
+  endDate: 12/31/2017
+content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](https://support.office.com/article/Live-Meeting-Server-End-of-Life-6af25745-1f4a-4bcd-8051-fd0766f53c4f)\n\n\n## <a name=\"editions\"></a>Das \n* Standard"

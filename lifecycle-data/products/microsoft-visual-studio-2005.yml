@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Visual Studio 2005
+  description: O Microsoft Visual Studio 2005 segue a política de ciclo de vida fixo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pt-BR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "803125"
+name: Microsoft Visual Studio 2005
+summary: >+
+  O Microsoft Visual Studio 2005 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+
+
+  Isso se aplica às seguintes edições: Professional, Standard, Standard Edition Academic License, Team Edition for Database Professionals, Team Edition para arquitetos de software, Team Edition for Software Developers, Team Edition for Software Architects, Team Suite, Team Test Load Agent, para o Microsoft Office System, o VB Express, o Visual C# Express, o Visual C++ Express, o Visual J# Express
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/27/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 1
+  startDate: 12/14/2006
+  endDate: 04/12/2016
+- version: Original Release
+  startDate: 01/27/2006
+  endDate: 01/08/2008
+content: "\n## <a name=\"links\"></a>Links \n* [Informações de suporte do Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Diretrizes de migração](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Informações do produto Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> O suporte para este produto terminou. Veja a seguir as diretrizes de migração.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition for Database Professionals lançado em 2 de março de 2007.\n\n## <a name=\"editions\"></a>Das \n* Professional\n* Standard\n* Licença acadêmica do Standard Edition\n* Team Edition para profissionais de banco de dados\n* Team Edition para arquitetos de software\n* Team Edition para desenvolvedores de software\n* Team Edition para testadores de software\n* Team Suite\n* Team Test Load Agent\n* Ferramentas para o Microsoft Office System\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"

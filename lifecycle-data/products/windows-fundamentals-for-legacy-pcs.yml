@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Conceitos básicos do Windows para computadores herdados
+  description: Os conceitos básicos do Windows para computadores herdados seguem a política de ciclo de vida fixo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b0ea32a5421ba068c5fa75f46633c104fdb3eff5
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pt-BR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "803088"
+name: Conceitos básicos do Windows para computadores herdados
+summary: >+
+  Os conceitos básicos do Windows para computadores herdados seguem a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/31/2006
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Service Pack 3
+  startDate: 10/07/2008
+  endDate: 04/08/2014
+- version: Original Release
+  startDate: 05/31/2006
+  endDate: 10/12/2010
+content: "\n## <a name=\"links\"></a>Links \n* [Política de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Este produto segue a mesma política de ciclo de vida de suporte que o Windows XP."

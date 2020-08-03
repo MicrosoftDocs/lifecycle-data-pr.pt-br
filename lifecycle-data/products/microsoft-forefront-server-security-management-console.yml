@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Console de Gerenciamento do Microsoft Forefront Server Security
+  description: O console de gerenciamento do Microsoft Forefront Server Security segue a política de ciclo de vida fixo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 79937f95580b655b318e965e2ef659931323ff8d
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: pt-BR
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "803738"
+name: Console de Gerenciamento do Microsoft Forefront Server Security
+summary: >+
+  O console de gerenciamento do Microsoft Forefront Server Security segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/10/2008
+  end: 04/08/2014
+releases:
+- version: Original Release
+  startDate: 01/10/2008
+  endDate: 04/08/2014
+content: ''

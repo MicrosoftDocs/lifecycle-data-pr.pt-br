@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Project 2013
+  description: O Project 2013 segue a política de ciclo de vida fixo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4e9a8e347d9ae095408a296473f39bb5bd05f924
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pt-BR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "848347"
+name: Project 2013
+summary: >+
+  O Project 2013 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+
+
+  Isso se aplica às seguintes edições: Professional, Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/09/2013
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Original Release
+  startDate: 01/09/2013
+  endDate: 04/11/2023
+content: "\n\n\n## <a name=\"editions\"></a>Das \n* Professional\n* Standard"

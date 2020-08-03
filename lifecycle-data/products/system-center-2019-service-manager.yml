@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: System Center 2019 Service Manager
+  description: O Gerenciador de serviços do System Center 2019 segue a política de ciclo de vida fixo.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 488ee016cd574e0318bd9e0062bc2919299b89d8
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: pt-BR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "867690"
+name: System Center 2019 Service Manager
+summary: >+
+  O Gerenciador de serviços do System Center 2019 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 03/14/2019
+  end: 04/09/2024
+  extendedEnd: 04/09/2029
+releases:
+- version: Original Release
+  startDate: 03/14/2019
+  endDate: 04/09/2029
+content: "\n## <a name=\"links\"></a>Links \n* [Informações do produto](/system-center/)"

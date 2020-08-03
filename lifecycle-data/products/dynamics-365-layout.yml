@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Layout do Dynamics 365
+  description: O layout do Dynamics 365 segue a política de ciclo de vida moderno.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b3dff3d9a8e33fd57896f487fdf4e5702dd1dfd6
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: pt-BR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "867571"
+name: Layout do Dynamics 365
+summary: >+
+  O layout do Dynamics 365 segue a política de ciclo de vida [moderno](/lifecycle/policies/modern) .
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 09/30/2018
+  end: 12/31/2021
+releases:
+- version: Original Release
+  startDate: 09/30/2018
+  endDate: 12/31/2021
+content: "\n## <a name=\"links\"></a>Links \n* [Layout e assistência remota](/dynamics365/mixed-reality/layout/faq)"

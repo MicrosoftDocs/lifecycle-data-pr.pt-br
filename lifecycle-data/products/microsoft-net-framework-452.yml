@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft .NET Framework 4.5.2
+  description: O Microsoft .NET Framework 4.5.2 segue a política de ciclo de vida do componente.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c893ea681fc98a81689a258a44b5b320b82b2582
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pt-BR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "848540"
+name: Microsoft .NET Framework 4.5.2
+summary: >+
+  O Microsoft .NET Framework 4.5.2 segue a política de ciclo de vida do [componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+
+
+products:
+- dotnet
+policyType: component
+supportDates:
+  start: 05/05/2014
+releases:
+- version: Original Release
+  startDate: 05/05/2014
+content: "\n## <a name=\"links\"></a>Links \n* [Informações do produto](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-452)\n* [Perguntas frequentes do .NET Framework](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> O .NET Framework é um componente do sistema operacional Windows. Os componentes recebem o mesmo suporte de seu produto ou plataforma pai."

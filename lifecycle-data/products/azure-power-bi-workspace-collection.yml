@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Coleção de espaço de trabalho do Azure Power BI
+  description: O conjunto de espaço de trabalho do Azure Power BI segue a política de ciclo de vida moderna.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a95f325fa895563c498eca76aaa2b7978d393473
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: pt-BR
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "848096"
+name: Coleção de espaço de trabalho do Azure Power BI
+summary: >
+  O conjunto de espaço de trabalho do Azure Power BI segue a política de ciclo de vida [moderna](/lifecycle/policies/modern) .
+
+
+
+  > [!IMPORTANT]
+
+  > O suporte foi finalizado. Veja as diretrizes de migração abaixo.
+products:
+- sql-server
+policyType: modern-online
+supportDates:
+  start: 03/31/2016
+  end: 07/30/2018
+releases:
+- version: Original Release
+  startDate: 03/31/2016
+  endDate: 07/30/2018
+content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](/power-bi/developer/embedded/migrate-from-powerbi-embedded)"

@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
 title: Pesquisar informações de ciclo de vida de produtos e serviços (versão prévia)
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Esta página está em desenvolvimento. Para obter uma lista completa de produtos Microsoft e seus cronogramas de suporte e detalhes, acesse [aka.ms/Lifecycle/Search](https://aka.ms/lifecycle/search/).\n\n\nO ciclo de vida da Microsoft fornece diretrizes consistentes e previsíveis para o suporte durante toda a vida de um produto, ajudando os clientes a gerenciar seus investimentos e ambientes de ti enquanto planejam de forma estratégica para o futuro.\n\n\nPesquise abaixo uma lista de produtos e serviços comerciais da Microsoft e selecione seu resultado para encontrar cronogramas de serviço e suporte, atualizações necessárias, informações de migração e requisitos do sistema."
+summary: "\n\n> [!IMPORTANT]\n> Esta página está em desenvolvimento. Para obter uma lista completa de produtos Microsoft e seus cronogramas de suporte e detalhes, acesse [aka.ms/Lifecycle/Search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Exportar informações do ciclo de vida da página de [exportação de ciclo de vida](/lifecycle/export/products) .\n\n\nO ciclo de vida da Microsoft fornece diretrizes consistentes e previsíveis para o suporte durante toda a vida de um produto, ajudando os clientes a gerenciar seus investimentos e ambientes de ti enquanto planejam de forma estratégica para o futuro.\n\n\nPesquise abaixo uma lista de produtos e serviços comerciais da Microsoft e selecione seu resultado para encontrar cronogramas de serviço e suporte, atualizações necessárias, informações de migração e requisitos do sistema."
 metadata:
-  ms.openlocfilehash: 6bb48cf842d75b6dec70a1d057d9a732e245a823
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: d412a8110fc64c4cb346fd9b7056fa35a59c8260
+  ms.sourcegitcommit: 0c5dc5388beb299272e01efb037b964e49ca1fb0
   ms.translationtype: MT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "803837"
+  ms.lasthandoff: 08/04/2020
+  ms.locfileid: "882424"

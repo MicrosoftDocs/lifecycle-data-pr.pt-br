@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Sistema de gerenciamento de varejo do Dynamics 2,0
-  description: Dynamics Retail Management System 2,0 segue a política de ciclo de vida fixo.
+  title: Dynamics Retail Management System 2.0
+  description: O Dynamics Retail Management System 2.0 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: e587a27011a62b298f9003be9805c2e01b146057
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "803431"
-name: Sistema de gerenciamento de varejo do Dynamics 2,0
+name: Dynamics Retail Management System 2.0
 summary: >+
-  Dynamics Retail Management System 2,0 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Dynamics Retail Management System 2.0 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isso se aplica às seguintes edições: Headquarters, operações de armazenamento
+  Isso se aplica às seguintes edições: Headquarters, Store Operations
 
 products:
 - dynamics
@@ -39,4 +39,4 @@ releases:
 - version: Service Pack 1
   startDate: 07/31/2007
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>Links \n* [Política de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Das \n* Sede\n* Operações de armazenamento"
+content: "\n## <a name=\"links\"></a>Links \n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Headquarters\n* Store Operations"

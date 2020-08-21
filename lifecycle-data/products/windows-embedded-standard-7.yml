@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Embedded Standard 7
-  description: O Windows Embedded Standard 7 segue a política de ciclo de vida fixo.
+  description: O Windows Embedded Standard 7 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2e4b6119250a574a9526e74a7ccea090e02ed61d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "803610"
 name: Windows Embedded Standard 7
 summary: >+
-  O Windows Embedded Standard 7 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Windows Embedded Standard 7 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isso se aplica às seguintes edições: Standard
+  Isso se aplica às seguintes edições: Padrão
 
 products:
 - windows
@@ -39,4 +39,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Links \n* [* Programa de atualização de segurança estendida (ESU) – atualizações de segurança estendidas para produtos incorporados selecionados estão disponíveis por meio de OEMs](/lifecycle/faq/extended-security-updates)\n* [Diretrizes de migração](https://support.microsoft.com/help/4057281)\n* [Política de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> ' * As atualizações de segurança estendidas (ESU) estão disponíveis para o Windows Embedded Standard 7 por mais três anos após o fim do suporte via OEMs. Entre em contato com sua equipe de contas ou parceiros da Microsoft para saber mais.\n\n## <a name=\"editions\"></a>Das \n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [* Programa ESU (Atualização de Segurança Estendida) — há Atualizações de Segurança Estendida disponíveis para alguns produtos Embedded por meio dos OEMs](/lifecycle/faq/extended-security-updates)\n* [Diretrizes de migração](https://support.microsoft.com/help/4057281)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> '*Há ESUs (Atualizações de Segurança Estendida) disponíveis para o Windows Embedded Standard 7 por mais três anos além do fim do suporte por meio dos OEMs. Entre em contato com sua equipe de contas ou com seu parceiro da Microsoft para saber mais.\n\n## <a name=\"editions\"></a>Edições \n* Padrão"

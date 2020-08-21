@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2008
-  description: O Visual Studio 2008 segue a política de ciclo de vida fixo.
+  description: O Visual Studio 2008 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2c78c508275eda64e51e80bb21e954944bd86404
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "803259"
 name: Visual Studio 2008
 summary: >+
-  O Visual Studio 2008 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Visual Studio 2008 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isso se aplica às seguintes edições: ALL, pro w/MSDN Premium, Professional, Professional com o MSDN, o Team Suite, o Team Test Load Agent, o VB Express, o Visual Basic Express, o Visual C# Express, o Visual C++ Express, o Visual Web Developer Express
+  Isso se aplica às seguintes edições: Todos, Pro com MSDN Premium, Professional, Professional com MSDN, Team Suite, Team Test Load Agent, VB Express, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [Política de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Inclui Visual C++ Express, Visual C# Express, VB Express, Visual Web Developer Express e Visual Studio Team System Edition\n\n## <a name=\"editions\"></a>Das \n* Todos\n* Pro com o MSDN Premium\n* Professional\n* Profissional com o MSDN \n* Team Suite\n* Team Test Load Agent\n* VB Express\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Inclui as edições Visual C++ Express, Visual C# Express, VB Express, Visual Web Developer Express e Visual Studio Team System\n\n## <a name=\"editions\"></a>Edições \n* Todas\n* Pro com MSDN Premium\n* Professional\n* Professional com MSDN \n* Team Suite\n* Team Test Load Agent\n* VB Express\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"

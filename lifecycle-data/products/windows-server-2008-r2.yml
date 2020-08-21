@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2008 R2
-  description: O Windows Server 2008 R2 segue a política de ciclo de vida fixo.
+  description: O Windows Server 2008 R2 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: a6c6adf73d2ed1b58f9ce3f1458f7a11cd1ae494
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "803964"
 name: Windows Server 2008 R2
-summary: "O Windows Server 2008 R2 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .\n\nIsso se aplica às seguintes edições: datacenter, Enterprise, HPC Edition, sistemas baseados em Itanium, Standard, Web\n\n> [!IMPORTANT]\n> O suporte para este produto terminou. Veja as diretrizes de migração abaixo. \n"
+summary: "O Windows Server 2008 R2 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).\n\nIsso se aplica às seguintes edições: Datacenter, Enterprise, HPC Edition, Sistemas Baseados em Itanium, Standard, Web\n\n> [!IMPORTANT]\n> O suporte para esse produto foi encerrado. Veja as diretrizes de migração abaixo. \n"
 products:
 - windows
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](https://aka.ms/AA1ovn4)\n* [Informações de atualização do servidor](/windows-server/upgrade/upgrade-overview)\n* [Programa de atualização de segurança estendida (ESU)](/lifecycle/faq/extended-security-updates)\n* [Política de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> As atualizações de segurança estendidas (ESU) estão disponíveis por meio de programas de licenciamento por volume específicos para o datacenter, Standard, Enterprise e edições integradas dessas edições de produto, por até três anos após o fim do suporte. Entre em contato com sua equipe de contas ou parceiros da Microsoft para saber mais. \n\nLiberar-------------------------------data de início----data de término\n\nAtualização de segurança estendida ano 3---01/11/2022---01/10/2023\n\nAtualização de segurança estendida ano 2---01/12/2021---01/11/2022\n\nAtualização de segurança estendida ano 1---01/14/2020---01/12/2021\n\n## <a name=\"editions\"></a>Das \n* Data center\n* Corporativo\n* HPC Edition\n* Sistemas baseados em Itanium\n* Standard\n* Web"
+content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](https://aka.ms/AA1ovn4)\n* [Informações sobre a Atualização do Servidor](/windows-server/upgrade/upgrade-overview)\n* [Programa ESU (Atualização de Segurança Estendida)](/lifecycle/faq/extended-security-updates)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> As ESUs (Atualizações de Segurança Estendida) estão disponíveis pelos programas específicos de licenciamento de volume para as versões Datacenter, Standard, Enterprise e Embedded deste produto, por mais três anos além do fim do suporte. Entre em contato com sua equipe de contas ou com seu parceiro da Microsoft para saber mais. \n\nVersão-------------------------------Data de Início----Data de Término\n\nAtualização de Segurança Estendida Ano 3---11/01/2022---10/01/2023\n\nAtualização de Segurança Estendida Ano 2---12/01/2021---11/01/2022\n\nAtualização de Segurança Estendida Ano 1---14/01/2020---12/01/2021\n\n## <a name=\"editions\"></a>Edições \n* Datacenter\n* Enterprise\n* HPC Edition\n* Sistemas Baseados em Itanium\n* Padrão\n* Web"

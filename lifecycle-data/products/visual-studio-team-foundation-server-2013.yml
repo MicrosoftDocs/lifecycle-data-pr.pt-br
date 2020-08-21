@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team Foundation Server 2013
-  description: O Visual Studio Team Foundation Server 2013 segue a política de ciclo de vida fixo.
+  description: O Visual Studio Team Foundation Server 2013 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: b24e1b9ebaf9855024973bfa2ff6b7d90e3af408
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848476"
 name: Visual Studio Team Foundation Server 2013
 summary: >+
-  O Visual Studio Team Foundation Server 2013 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Visual Studio Team Foundation Server 2013 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isso se aplica às seguintes edições: tudo, gerenciamento de versão
+  Isso se aplica às seguintes edições: Todos, Release Management
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Informações do produto](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Informações de serviço](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Política de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Para o servidor de gerenciamento de versão do TFS 2013, a atualização 4 será suportada pelas diretrizes de política até 4/9/2024.\n\n## <a name=\"editions\"></a>Das \n* Todos\n* Gerenciamento de versão"
+content: "\n## <a name=\"links\"></a>Links \n* [Informações do Produto](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [Informações de manutenção](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [Política do Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> No caso do Release Management Server para TFS 2013, a Atualização 4 terá suporte de acordo com as diretrizes da política até 09/04/2024.\n\n## <a name=\"editions\"></a>Edições \n* Todas\n* Release Management"

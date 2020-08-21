@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server Update Services para Windows Server 2012 R2
-  description: Windows Server Update Services for Windows Server 2012 R2 segue a política de ciclo de vida do componente.
+  description: O Windows Server Update Services para Windows Server 2012 R2 segue a Política de Ciclo de Vida do Componente.
   ms.date: 07/28/2020
   ms.openlocfilehash: db602a56da102f56953ea16e19275df5aa653458
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848466"
 name: Windows Server Update Services para Windows Server 2012 R2
 summary: >+
-  Windows Server Update Services for Windows Server 2012 R2 segue a política de ciclo de vida do [componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  O Windows Server Update Services para Windows Server 2012 R2 segue a Política de Ciclo de Vida do [Componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "> [!TIP]\n> Este componente segue o ciclo de vida de seu produto pai, Windows Server 2012 R2\n\n## <a name=\"links\"></a>Links \n* [Windows Server 2012 R2](/lifecycle/)"
+content: "> [!TIP]\n> Esse componente segue o ciclo de vida de seu produto pai, o Windows Server 2012 R2\n\n## <a name=\"links\"></a>Links \n* [Windows Server 2012 R2](/lifecycle/)"

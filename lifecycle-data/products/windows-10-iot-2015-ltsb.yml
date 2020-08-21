@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 IoT 2015 LTSB
-  description: Windows 10 IoT 2015 LTSB segue a política de ciclo de vida fixo.
+  description: O Windows 10 IoT 2015 LTSB segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 68cfcc967eb5a79d7d1cfffcf2419560d6e993bb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848138"
 name: Windows 10 IoT 2015 LTSB
 summary: >+
-  Windows 10 IoT 2015 LTSB segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Windows 10 IoT 2015 LTSB segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
   Isso se aplica às seguintes edições: Enterprise
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Links \n* [Windows como um serviço (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Perguntas frequentes sobre o Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Atualização do Windows 10 outubro (versão 1809)](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>Das \n* Corporativo"
+content: "\n## <a name=\"links\"></a>Links \n* [WaaS (Windows como Serviço)](/windows/deployment/update/waas-quick-start)\n* [Perguntas Frequentes do Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Relançamento da Atualização de outubro do Windows 10 (versão 1809)](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>Edições \n* Enterprise"

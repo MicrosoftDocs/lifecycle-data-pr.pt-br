@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Esta configuração está disponível nos seguintes tipos de dispositivos:'
-  description: O Windows Phone 8,1 segue a política de ciclo de vida fixo.
+  title: Windows Phone 8.1
+  description: O Windows Phone 8.1 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848386"
-name: 'Esta configuração está disponível nos seguintes tipos de dispositivos:'
+name: Windows Phone 8.1
 summary: >
-  O Windows Phone 8,1 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Windows Phone 8.1 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > O suporte para este produto terminou.
+  > O suporte para esse produto foi encerrado.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/24/2014
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Perguntas frequentes sobre o Windows Phone 8,1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> A Microsoft fará as atualizações disponíveis para o sistema operacional, incluindo atualizações de segurança, pelo menos 36 meses após a data de início do ciclo de vida. Essas atualizações serão incrementais, com cada atualização criada na atualização precedida. Os clientes precisam instalar cada atualização para permanecer com suporte. A distribuição dessas atualizações incrementais pode ser controlada pela operadora móvel ou pelo fabricante do telefone do qual você comprou o telefone, e a instalação exigirá que o seu telefone tenha qualquer atualização anterior. A disponibilidade da atualização também variará por país, região e recursos de hardware."
+content: "\n## <a name=\"links\"></a>Links \n* [Perguntas Frequentes sobre o Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> A Microsoft disponibilizará atualizações para o Sistema Operacional, incluindo atualizações de segurança, por um período mínimo de 36 meses após a data de início do ciclo de vida. Essas atualizações serão incrementais, e cada atualização amplia a atualização anterior a ela. Os clientes precisam instalar cada atualização para continuar com suporte. A distribuição dessas atualizações incrementais pode ser controlada pela operadora móvel ou pelo fabricante do qual você comprou seu telefone, e a instalação exigirá que o telefone tenha atualizações prévias. A disponibilidade das atualizações também varia conforme o país, a região e os recursos de hardware."

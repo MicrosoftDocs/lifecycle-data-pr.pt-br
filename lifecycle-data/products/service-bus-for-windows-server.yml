@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Barramento de serviço para o Windows Server
-  description: O barramento de serviço do Windows Server segue a política de ciclo de vida do componente.
+  title: Barramento de Serviço para Windows Server
+  description: O Barramento de Serviço para Windows Server segue a Política de Ciclo de Vida do Componente.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1641a04266351d29d8b152c5bc87f62207344b65
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848303"
-name: Barramento de serviço para o Windows Server
+name: Barramento de Serviço para Windows Server
 summary: >
-  O barramento de serviço do Windows Server segue a política de ciclo de vida do [componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  O Barramento de Serviço para Windows Server segue a Política de Ciclo de Vida do [Componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 
   > [!IMPORTANT]
 
-  > Quando o barramento de serviço 1,1 é um componente do SharePoint Server 2016 ou SharePoint Server 2013, ele terá suporte de acordo com o fim das datas de suporte da respectiva versão do SharePoint Server.
+  > Quando o Barramento de Serviço 1.1 for um componente do SharePoint Server 2016 ou do SharePoint Server 2013, ele terá suporte de acordo com as datas de término de suporte da respectiva versão do SharePoint Server.
 products:
 - windows
 policyType: component

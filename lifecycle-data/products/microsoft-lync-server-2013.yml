@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Lync Server 2013
-  description: O Microsoft Lync Server 2013 segue a política de ciclo de vida fixo.
+  description: O Microsoft Lync Server 2013 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: b34b0e978d3da966e6a157c65ddd72a00a635db0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "803404"
 name: Microsoft Lync Server 2013
 summary: >+
-  O Microsoft Lync Server 2013 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Microsoft Lync Server 2013 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isso se aplica às seguintes edições: Enterprise, software de chat persistente kit de desenvolvimento, telefone, SDK, padrão
+  Isso se aplica às seguintes edições: Enterprise, Kit de Desenvolvimento de Software de Chat Persistente, Telefone, SDK, Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Links \n* [Informações do produto](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> O Lync Phone Edition é suportado com o Lync Server 2010 e o Lync Server 2013. A data de suporte para o Lync Phone Edition foi estendida 2 anos para se alinhar com o ciclo de vida do Lync Server 2013.\n\n## <a name=\"editions\"></a>Das \n* Corporativo\n* Kit de desenvolvimento de software de chat persistente\n* Phone\n* SDK\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Informações sobre o produto](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> O Lync Phone Edition tem suporte no Lync Server 2010 e no Lync Server 2013. A data de suporte do Lync Phone Edition foi estendida por dois anos para se alinhar ao ciclo de vida do Lync Server 2013.\n\n## <a name=\"editions\"></a>Edições \n* Enterprise\n* Kit de Desenvolvimento de Software de Chat Persistente\n* Telefone\n* SDK\n* Padrão"

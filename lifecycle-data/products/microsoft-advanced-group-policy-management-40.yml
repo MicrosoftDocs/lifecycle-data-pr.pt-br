@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Gerenciamento avançado de política de grupo da Microsoft 4,0
-  description: O gerenciamento avançado de política de grupo da Microsoft 4,0 segue a política de ciclo de vida fixo.
+  title: Gerenciamento Avançado de Política de Grupo da Microsoft 4.0
+  description: O Gerenciamento Avançado de Política de Grupo 4.0 da Microsoft segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ee2407b159ab7e8573aa39ebff7de6fd8002bde
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "803821"
-name: Gerenciamento avançado de política de grupo da Microsoft 4,0
+name: Gerenciamento Avançado de Política de Grupo da Microsoft 4.0
 summary: >+
-  O gerenciamento avançado de política de grupo da Microsoft 4,0 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Gerenciamento Avançado de Política de Grupo 4.0 da Microsoft segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2009
   endDate: 04/08/2014
-content: "\n## <a name=\"links\"></a>Links \n* [Experiência de informações do MDOP](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Política de Service Pack](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Links \n* [Experiência de Informações do MDOP](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)"

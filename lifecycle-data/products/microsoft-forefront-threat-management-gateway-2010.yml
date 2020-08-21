@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Forefront Threat Management Gateway 2010
-  description: O Microsoft Forefront Threat Management Gateway 2010 segue a política de ciclo de vida fixo.
+  description: O Microsoft Forefront Threat Management Gateway 2010 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: c28f728f916bfa317c1c81b4807c7aac16dd42bb
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "803737"
 name: Microsoft Forefront Threat Management Gateway 2010
 summary: >
-  O Microsoft Forefront Threat Management Gateway 2010 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Microsoft Forefront Threat Management Gateway 2010 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
   Isso se aplica às seguintes edições: Enterprise, Standard
@@ -19,7 +19,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > O suporte foi finalizado. Veja as diretrizes de migração abaixo.
+  > O suporte chegou ao fim. Veja as diretrizes de migração abaixo.
 products:
 - office
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>Das \n* Corporativo\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>Edições \n* Enterprise\n* Padrão"

@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 7
-  description: O Windows 7 segue a política de ciclo de vida fixo.
+  description: O Windows 7 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "803099"
 name: Windows 7
-summary: "O Windows 7 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .\n\nIsso se aplica às seguintes edições: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional para sistemas incorporados, Professional N, Starter, Starter N, Ultimate, Ultimate para sistemas incorporados, Ultimate N\n\n> [!IMPORTANT]\n> O suporte para este produto terminou. Veja as diretrizes de migração abaixo. \n"
+summary: "O Windows 7 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).\n\nIsso se aplica às seguintes edições: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional para Sistemas Embedded, Professional N, Starter, Starter N, Ultimate, Ultimate para Sistemas Embedded, Ultimate N\n\n> [!IMPORTANT]\n> O suporte para esse produto foi encerrado. Veja as diretrizes de migração abaixo. \n"
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/09/2013
-content: "> [!TIP]\n> ' * As atualizações de segurança estendidas (ESU) estão disponíveis por meio de programas de licenciamento por volume específicos para o Windows 7 Professional, Enterprise e Professional para edições de sistemas incorporados deste produto, por até três anos após o fim do suporte. Entre em contato com sua equipe de contas ou parceiros da Microsoft para saber mais. \n\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](https://support.microsoft.com/help/4057281)\n* [Atualizar do Windows 7 para o Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Programa de atualização de segurança estendida (ESU)](/lifecycle/faq/extended-security-updates)\n* [Política de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Das \n* Corporativo\n* N º da empresa\n* Home Basic\n* Home Premium\n* Casa Premium N\n* Professional\n* Professional para sistemas incorporados\n* Professional N\n* Início\n* Início N\n* Palavra\n* Ultimate para sistemas incorporados\n* Último N"
+content: "> [!TIP]\n> '* ESUs (Atualizações de Segurança Estendida) estão disponíveis pelos programas de licenciamento de volume específicos para as edições Windows 7 Professional, Enterprise e Professional para Sistemas Embedded deste produto por até mais três anos além do fim do suporte. Entre em contato com sua equipe de contas ou com seu parceiro da Microsoft para saber mais. \n\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](https://support.microsoft.com/help/4057281)\n* [Atualizando do Windows 7 para o Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Programa ESU (Atualização de Segurança Estendida)](/lifecycle/faq/extended-security-updates)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Enterprise\n* Enterprise N\n* Home Basic\n* Home Premium\n* Home Premium N\n* Professional\n* Professional para Sistemas Embedded\n* Professional N\n* Starter\n* Starter N\n* Ultimate\n* Ultimate para Sistemas Embedded\n* Ultimate N"

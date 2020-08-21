@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SharePoint 2010 (espaço de trabalho, designer)
-  description: O Microsoft SharePoint 2010 (Workspace, designer) segue a política de ciclo de vida fixo.
+  title: Microsoft SharePoint 2010 (Workspace, Designer)
+  description: O Microsoft SharePoint 2010 (Workspace, Designer) segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9d766264fa0494c9507c44a8af4743f375e13c53
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "803137"
-name: Microsoft SharePoint 2010 (espaço de trabalho, designer)
+name: Microsoft SharePoint 2010 (Workspace, Designer)
 summary: >+
-  O Microsoft SharePoint 2010 (Workspace, designer) segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Microsoft SharePoint 2010 (Workspace, Designer) segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isso se aplica às seguintes edições: designer, espaço de trabalho
+  Isso se aplica às seguintes edições: Designer, Workspace
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Documentação do desenvolvedor](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Documentação do produto](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n\n## <a name=\"editions\"></a>Das \n* Criação\n* Espaço de trabalho"
+content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Documentação do desenvolvedor](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Documentação do produto](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n\n## <a name=\"editions\"></a>Edições \n* Designer\n* Workspace"

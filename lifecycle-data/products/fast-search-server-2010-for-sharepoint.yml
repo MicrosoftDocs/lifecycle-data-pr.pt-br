@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: FAST Search Server 2010 (para SharePoint, para sites da Internet do SharePoint)
-  description: O FAST Search Server 2010 (para SharePoint, para sites da Internet do SharePoint) segue a política de ciclo de vida fixo.
+  title: FAST Search Server 2010 (para SharePoint, para Sites da Internet do SharePoint)
+  description: O FAST Search Server 2010 (para SharePoint, para Sites da Internet do SharePoint) segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2a2c66a5a5e5b2ffc3fbbf82d4a96803e06ee2e5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "803857"
-name: FAST Search Server 2010 (para SharePoint, para sites da Internet do SharePoint)
+name: FAST Search Server 2010 (para SharePoint, para Sites da Internet do SharePoint)
 summary: >+
-  O FAST Search Server 2010 (para SharePoint, para sites da Internet do SharePoint) segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O FAST Search Server 2010 (para SharePoint, para Sites da Internet do SharePoint) segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isso se aplica às seguintes edições: para SharePoint, para sites da Internet do SharePoint
+  Isso se aplica às seguintes edições: para SharePoint, para Sites da Internet do SharePoint
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [Política de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Exclui versões anteriores de suportadas. O suporte para este produto está sujeito aos termos de sua aquisição.\n\n## <a name=\"editions\"></a>Das \n* para SharePoint\n* para sites da Internet do SharePoint"
+content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Exclui as versões que perderam o suporte anteriormente. O suporte para este produto está sujeito aos termos de sua aquisição.\n\n## <a name=\"editions\"></a>Edições \n* para SharePoint\n* para Sites da Internet do SharePoint"

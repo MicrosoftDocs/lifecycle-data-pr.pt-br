@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 Enterprise e educação
-  description: O Windows 10 Enterprise e educação segue a política de ciclo de vida moderno.
+  title: Windows 10 Enterprise and Education
+  description: O Windows 10 Enterprise and Education segue a Política de Ciclo de Vida Moderna.
   ms.date: 07/30/2020
   ms.openlocfilehash: 959937e0ef4ac9c0cc65ecb1a6ef8aa332a835a8
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879109"
-name: Windows 10 Enterprise e educação
+name: Windows 10 Enterprise and Education
 summary: >
-  O Windows 10 Enterprise e educação segue a política de ciclo de vida [moderno](/lifecycle/policies/modern) .
+  O Windows 10 Enterprise and Education segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
   Isso se aplica às seguintes edições: Education, Enterprise
@@ -19,7 +19,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > A Microsoft continuará a dar suporte a pelo menos um canal semestral do Windows 10 até 14 de outubro de 2025.
+  > A Microsoft continuará a dar suporte a pelo menos um Canal Semestral do Windows 10 até 14 de outubro de 2025.
 products:
 - windows
 policyType: modern-on-prem
@@ -57,4 +57,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Windows como um serviço (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Informações do produto](/windows/windows-10/)\n* [Folha de fatos do ciclo de vida do Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Perguntas frequentes sobre o ciclo de vida-produtos Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> A menos que adiadas, as atualizações de recursos de canal do Windows 10 semestral posteriores podem ser instaladas antes da extremidade listada da data de suporte principal.\n\n## <a name=\"editions\"></a>Das \n* Educação\n* Corporativo"
+content: "\n## <a name=\"links\"></a>Links \n* [WaaS (Windows como Serviço)](/windows/deployment/update/waas-quick-start)\n* [Informações do Produto](/windows/windows-10/)\n* [Ficha informativa do ciclo de vida do Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Perguntas frequentes sobre o ciclo de vida — Produtos do Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> A menos que sejam adiadas, as atualizações subsequentes de recursos do Canal Semestral do Windows 10 podem ser instaladas antes da data de término listada do Suporte Base.\n\n## <a name=\"editions\"></a>Edições \n* Education\n* Enterprise"

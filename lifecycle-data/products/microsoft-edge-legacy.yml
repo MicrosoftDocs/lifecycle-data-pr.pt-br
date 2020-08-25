@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Edge herdado
+  description: O Microsoft Edge herdado segue a política de ciclo de vida do componente.
+  ms.date: 08/24/2020
+  ms.openlocfilehash: e3739694176a49b69fa121857ed8740523a36816
+  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
+  ms.translationtype: MT
+  ms.contentlocale: pt-BR
+  ms.lasthandoff: 08/25/2020
+  ms.locfileid: "908619"
+name: Microsoft Edge herdado
+summary: >
+  O Microsoft Edge herdado segue a política de ciclo de vida do [componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+
+
+
+  > [!IMPORTANT]
+
+  > Observe que o suporte para este produto termina em 9 de março de 2021. Clique [aqui](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) para saber mais.
+products:
+- microsoft-edge
+policyType: component
+supportDates:
+  start: 07/29/2015
+  end: 03/09/2021
+releases:
+- version: Original Release
+  startDate: 07/29/2015
+  endDate: 03/09/2021
+content: ''

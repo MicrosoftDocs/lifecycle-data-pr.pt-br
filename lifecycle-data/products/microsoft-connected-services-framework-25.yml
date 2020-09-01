@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Connected Services Framework 2,5
   description: O Microsoft Connected Services Framework 2,5 segue a política de ciclo de vida fixo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1475487e7ff1f7d6b5a54e58a3ba2b45e9a7ccf8
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Order Handling Standard Business Event 2.5,Server,Service Provider
+  ms.openlocfilehash: e0cdc315d310b2a6ed3c705261592af5be8ca851
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "803761"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934105"
 name: Microsoft Connected Services Framework 2,5
 summary: >+
   O Microsoft Connected Services Framework 2,5 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/26/2005
   endDate: 10/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Das \n* Evento de negócios padrão de tratamento de pedidos 2,5\n* Servidor\n* Provedor de serviços"
+content: "\n\n\n## <a name=\"editions\"></a>Edições \n* Evento de negócios padrão de tratamento de pedidos 2,5\n* Servidor\n* Provedor de serviços"

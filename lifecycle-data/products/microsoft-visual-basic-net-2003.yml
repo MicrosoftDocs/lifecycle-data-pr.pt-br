@@ -2,19 +2,20 @@
 metadata:
   title: Microsoft Visual Basic .NET 2003
   description: O Microsoft Visual Basic .NET 2003 segue a política de ciclo de vida fixo.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: aa66f6d0e0a3cd91eb4a22845d303643d8482004
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: a709317781cb79dd954af31cb81d916d4476b0ab
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "803668"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938138"
 name: Microsoft Visual Basic .NET 2003
 summary: >+
   O Microsoft Visual Basic .NET 2003 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
 
 
-  Isso se aplica às seguintes edições: Standard
+  Isso se aplica às seguintes edições: Padrão
 
 products:
 - vs
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2003
   endDate: 10/08/2013
-content: "\n\n\n## <a name=\"editions\"></a>Das \n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>Edições \n* Padrão"

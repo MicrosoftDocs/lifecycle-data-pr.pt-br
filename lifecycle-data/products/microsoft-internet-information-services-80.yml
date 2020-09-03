@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Serviços de informações da Internet 8,0 da Microsoft
-  description: Os serviços de informações da Internet 8,0 da Microsoft seguem a política de ciclo de vida do componente.
+  title: Serviços de Informações da Internet 8.0 da Microsoft
+  description: Os Serviços de Informações da Internet 8.0 da Microsoft seguem a Política de Ciclo de Vida de Componente.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71be1061b611798489998e4437c1e3d80bbe19b3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "803165"
-name: Serviços de informações da Internet 8,0 da Microsoft
+name: Serviços de Informações da Internet 8.0 da Microsoft
 summary: >+
-  Os serviços de informações da Internet 8,0 da Microsoft seguem a política de ciclo de vida do [componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Os Serviços de Informações da Internet 8.0 da Microsoft seguem a Política de Ciclo de Vida de [Componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/30/2012
-content: "> [!TIP]\n> Este lançamento é conhecido como um componente que segue o ciclo de vida do suporte de seu produto principal pai, Windows Server 2012 e Windows 8\n\n## <a name=\"links\"></a>Links \n* [Windows Server 2012](/lifecycle/products/windows-server-2012)\n* [Windows 8](/lifecycle/products/windows-8)"
+content: "> [!TIP]\n> Esta versão é conhecida como um Componente e segue o Ciclo de Cida de Suporte do seu Produto Principal pai, o Windows Server 2012 e o Windows 8\n\n## <a name=\"links\"></a>Links \n* [Windows Server 2012](/lifecycle/products/windows-server-2012)\n* [Windows 8](/lifecycle/products/windows-8)"

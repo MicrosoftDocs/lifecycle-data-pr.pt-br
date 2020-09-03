@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint Foundation 2010
-  description: O SharePoint Foundation 2010 segue a política de ciclo de vida fixo.
+  description: O Microsoft SharePoint Foundation 2010 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4e1bc498432d215ea8f84140c068054cf6c9c5cc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "803113"
 name: SharePoint Foundation 2010
 summary: >+
-  O SharePoint Foundation 2010 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Microsoft SharePoint Foundation 2010 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Extensão de suporte](https://aka.ms/SharePoint/server/2010/supportextension)\n\n> [!NOTE]\n> A data do fim de suporte do produto foi estendida de 13 de outubro de 2020 para 13 de abril de 2021."
+content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Extensão de suporte](https://aka.ms/SharePoint/server/2010/supportextension)\n\n> [!NOTE]\n> A data de término do suporte deste produto foi estendida de 13 de outubro de 2020 para 13 de abril de 2021."

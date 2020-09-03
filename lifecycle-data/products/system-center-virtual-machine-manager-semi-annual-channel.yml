@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Canal semestral do Gerenciador de máquina virtual do System Center
-  description: O canal semestral do System Center Virtual Machine Manager segue a política de ciclo de vida moderno.
+  title: Canal Semestral do System Center Virtual Machine Manager
+  description: O Canal Semestral do System Center Virtual Machine Manager segue a Política de Ciclo de Vida Moderna.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8972aa6593d08e6325e8ff4d71d5fb04609caa92
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "867678"
-name: Canal semestral do Gerenciador de máquina virtual do System Center
+name: Canal Semestral do System Center Virtual Machine Manager
 summary: >
-  O canal semestral do System Center Virtual Machine Manager segue a política de ciclo de vida [moderno](/lifecycle/policies/modern) .
+  O Canal Semestral do System Center Virtual Machine Manager segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 
   > [!IMPORTANT]
 
-  > O suporte foi finalizado. Veja as diretrizes de migração abaixo.
+  > O suporte chegou ao fim. Veja as diretrizes de migração abaixo.
 products:
 - msc
 policyType: modern-on-prem

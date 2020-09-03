@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Virtual PC 2004
-  description: O Virtual PC 2004 segue a política de ciclo de vida fixo.
+  description: O Virtual PC 2004 segue a Política de Ciclo de Vida Fixa.
   ms.date: 08/12/2020
   ms.openlocfilehash: e4a1b7e6f5b072185d8b2f406398cb077ce983a6
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893264"
 name: Virtual PC 2004
 summary: >
-  O Virtual PC 2004 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Virtual PC 2004 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
   Isso se aplica às seguintes edições: Express, Standard
@@ -19,7 +19,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > O suporte para este produto terminou.
+  > O suporte para esse produto foi encerrado.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/20/2004
   endDate: 10/09/2007
-content: "> [!TIP]\n> Microsoft Virtual PC 2004 Express lançado em 13 de abril de 2006.\n\n## <a name=\"links\"></a>Links \n* [Política de Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Das \n* Express\n* Standard"
+content: "> [!TIP]\n> Microsoft Virtual PC 2004 Express lançado em 13 de abril de 2006.\n\n## <a name=\"links\"></a>Links \n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Express\n* Padrão"

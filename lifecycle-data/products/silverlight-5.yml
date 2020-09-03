@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Silverlight 5
-  description: O Silverlight 5 segue a política de ciclo de vida fixo.
+  description: O Silverlight 5 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2bdc8039724e69c5693e178d5697eb4e7242c3d2
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "867650"
 name: Silverlight 5
 summary: >+
-  O Silverlight 5 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Silverlight 5 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2011
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>Links \n* [O Silverlight 5 suportará os navegadores listados aqui por meio de 10/12/2021 ou por meio do ciclo de vida dos navegadores subjacentes, o que for mais curto.](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [Fim do suporte do Silverlight](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> A Microsoft fornecerá uma notificação de no mínimo 12 meses antes do fim do suporte para ferramentas."
+content: "\n## <a name=\"links\"></a>Links \n* [O Silverlight 5 dará suporte aos navegadores listados aqui até 12/10/2021 ou de acordo com o ciclo de vida dos navegadores subjacentes, o que for menor.](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [Fim do Suporte ao Silverlight](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> A Microsoft fornecerá uma notificação com no mínimo 12 meses de antecedência, antes de encerrar o suporte para Ferramentas."

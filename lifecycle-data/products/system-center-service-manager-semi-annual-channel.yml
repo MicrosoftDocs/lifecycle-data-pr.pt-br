@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Canal semestral do Gerenciador de serviços do System Center
-  description: O canal semianual do System Center Service Manager segue a política de ciclo de vida moderno.
+  title: Canal Semestral do System Center Service Manager
+  description: O Canal Semestral do System Center Service Manager segue a Política de Ciclo de Vida Moderna.
   ms.date: 07/28/2020
   ms.openlocfilehash: 37355211dc2600ad5f372f914e386a836b5c4be9
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "867620"
-name: Canal semestral do Gerenciador de serviços do System Center
+name: Canal Semestral do System Center Service Manager
 summary: >
-  O canal semianual do System Center Service Manager segue a política de ciclo de vida [moderno](/lifecycle/policies/modern) .
+  O Canal Semestral do System Center Service Manager segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 
   > [!IMPORTANT]
 
-  > O suporte foi finalizado. Veja as diretrizes de migração abaixo.
+  > O suporte chegou ao fim. Veja as diretrizes de migração abaixo.
 products:
 - msc
 policyType: modern-on-prem

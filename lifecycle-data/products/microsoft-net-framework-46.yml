@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft .NET Framework 4.6
-  description: O Microsoft .NET Framework 4,6 segue a política de ciclo de vida do componente.
+  description: O Microsoft .NET Framework 4.6 segue a Política de Ciclo de Vida de Componente.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1505b81ae5333b02ddda8778583baea94b516a5c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848206"
 name: Microsoft .NET Framework 4.6
 summary: >+
-  O Microsoft .NET Framework 4,6 segue a política de ciclo de vida do [componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  O Microsoft .NET Framework 4.6 segue a Política de Ciclo de Vida de [Componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 07/29/2015
-content: "\n## <a name=\"links\"></a>Links \n* [Perguntas frequentes do .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informações do produto](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-46)\n\n> [!NOTE]\n> O .NET Framework é um componente do sistema operacional Windows. Os componentes recebem o mesmo suporte de seu produto ou plataforma pai."
+content: "\n## <a name=\"links\"></a>Links \n* [Perguntas Frequentes sobre o Ciclo de Vida do .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Informações sobre o produto](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-46)\n\n> [!NOTE]\n> O .NET Framework é um componente do sistema operacional Windows. Os componentes recebem o mesmo suporte que seu produto ou plataforma pai."

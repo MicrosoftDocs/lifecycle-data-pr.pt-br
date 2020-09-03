@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Setor Windows Embedded 8
-  description: O setor Windows Embedded 8 segue a política de ciclo de vida fixo.
+  title: Windows Embedded 8 Industry
+  description: O Windows Embedded 8 Industry segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ea7dea72b8c455d30007ba3b166f43cf59a4822
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848124"
-name: Setor Windows Embedded 8
+name: Windows Embedded 8 Industry
 summary: >
-  O setor Windows Embedded 8 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Windows Embedded 8 Industry segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isso se aplica às seguintes edições: Enterprise, pro
+  Isso se aplica às seguintes edições: Enterprise, Pro
 
 
   > [!IMPORTANT]
 
-  > Os clientes devem migrar para o Windows 8.1 a fim de continuar com suporte.
+  > Os clientes devem migrar para o Windows 8.1 a fim de manter o suporte.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/24/2013
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](https://www.microsoft.com/download/details.aspx?id=40279)\n* [Perguntas frequentes sobre o ciclo de vida-produtos Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Das \n* Corporativo\n* Proporcional"
+content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](https://www.microsoft.com/download/details.aspx?id=40279)\n* [Perguntas frequentes sobre o ciclo de vida — Produtos do Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Edições \n* Enterprise\n* Pro"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Business Scorecard Manager 2005
-  description: O Microsoft Office Business Scorecard Manager 2005 segue a política de ciclo de vida fixo.
+  description: O Microsoft Office Business Scorecard Manager 2005 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: bc345248ceba7c8f2cac730bc1141a0dae32d398
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "804096"
 name: Microsoft Office Business Scorecard Manager 2005
 summary: >+
-  O Microsoft Office Business Scorecard Manager 2005 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Microsoft Office Business Scorecard Manager 2005 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 12/27/2005
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](https://blogs.msdn.microsoft.com/performancepoint/2016/04/06/end-of-support-for-business-scorecard-accelerator-and-business-scorecard-manager-2005)\n\n> [!NOTE]\n> O suporte para Business Scorecard Manager 2005 terminou em 1/12/2016."
+content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](https://blogs.msdn.microsoft.com/performancepoint/2016/04/06/end-of-support-for-business-scorecard-accelerator-and-business-scorecard-manager-2005)\n\n> [!NOTE]\n> O suporte ao Business Scorecard Manager 2005 foi encerrado em 12/01/2016."

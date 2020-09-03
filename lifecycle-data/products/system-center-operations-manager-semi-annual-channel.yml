@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Canal semestral do System Center Operations Manager
-  description: O canal semestral do System Center Operations Manager segue a política de ciclo de vida moderno.
+  title: Canal Semestral do System Center Operations Manager
+  description: O Canal Semestral do System Center Operations Manager segue a Política de Ciclo de Vida Moderna.
   ms.date: 07/28/2020
   ms.openlocfilehash: e1cc9be8f8d34eb92823ef4a44548be49dbe2476
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "867683"
-name: Canal semestral do System Center Operations Manager
+name: Canal Semestral do System Center Operations Manager
 summary: >
-  O canal semestral do System Center Operations Manager segue a política de ciclo de vida [moderno](/lifecycle/policies/modern) .
+  O Canal Semestral do System Center Operations Manager segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 
   > [!IMPORTANT]
 
-  > O suporte foi finalizado. Veja as diretrizes de migração abaixo.
+  > O suporte chegou ao fim. Veja as diretrizes de migração abaixo.
 products:
 - msc
 policyType: modern-on-prem

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Adaptadores do Microsoft BizTalk para sistemas de host 2,0
-  description: Os adaptadores do Microsoft BizTalk para sistemas de host 2,0 seguem a política de ciclo de vida fixo.
+  title: Adaptadores para Microsoft BizTalk para Sistemas Host 2.0
+  description: Os Adaptadores para Microsoft BizTalk para Sistemas Host 2.0 seguem a Política de Ciclo de Vida Fixa.
   ms.date: 08/12/2020
   ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893486"
-name: Adaptadores do Microsoft BizTalk para sistemas de host 2,0
+name: Adaptadores para Microsoft BizTalk para Sistemas Host 2.0
 summary: >+
-  Os adaptadores do Microsoft BizTalk para sistemas de host 2,0 seguem a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  Os Adaptadores para Microsoft BizTalk para Sistemas Host 2.0 seguem a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isso se aplica às seguintes edições: desenvolvedor, Standard
+  Isso se aplica às seguintes edições: Developer, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Das \n* Developer\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Edições \n* Developer\n* Padrão"

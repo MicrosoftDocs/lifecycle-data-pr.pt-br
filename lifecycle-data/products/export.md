@@ -1,13 +1,13 @@
 ---
 title: Exportação de dados do ciclo de vida
 description: Exportar informações de ciclo de vida do produto
-ms.date: 09/14/2020
-ms.openlocfilehash: 66fc9fb6f5f5660380570bae8d69a327c9a1db80
-ms.sourcegitcommit: a246bd5f3f9227f1dbfca6471808b64cb076623a
+ms.date: 09/18/2020
+ms.openlocfilehash: eaaece725a9a3535c228d48598195b4b4a50401d
+ms.sourcegitcommit: 445dd417cde533a0479a2e7012b0a7bc5338e3a1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "1008452"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "1025017"
 ---
 # <a name="lifecycle-data-export"></a>Exportação de dados do ciclo de vida
 
@@ -23,7 +23,7 @@ Exportar dados do ciclo de vida para todos os produtos clicando abaixo:
 ## <a name="export-products-by-family-and-group"></a>Exportar produtos por família e grupo
 Selecione uma família e, em seguida, um grupo a ser exportado. Observação: a exportação começará quando o valor de grupo for selecionado. 
 
-> [!div class="op_multi_selector" title1="Produtos" title2="Grupo"]
+> [!div class="op_multi_selector" title1="Produtos" title2="Group"]
 > - [(.NET | Todos os](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
 > - [(.NET | .NET)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET'%20and%20parent/parent/name%20eq%20'.NET')
 > - [(Azure | Todos os](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Azure')

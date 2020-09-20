@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Storage Server 2016
-  description: O Windows Storage Server 2016 segue a política de ciclo de vida fixo.
+  description: O Windows Storage Server 2016 segue a Política de Ciclo de Vida Fixa.
   ms.date: 09/01/2020
   keywords: Standard,Workgroup
   ms.openlocfilehash: 3c0a7d1d5f6f5a73282c35ad96c1b0a036f938d1
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938952"
 name: Windows Storage Server 2016
 summary: >+
-  O Windows Storage Server 2016 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Windows Storage Server 2016 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isso se aplica às seguintes edições: Standard, Grupo de Trabalho
+  Isso se aplica às seguintes edições: Standard, Workgroup
 
 products:
 - windows

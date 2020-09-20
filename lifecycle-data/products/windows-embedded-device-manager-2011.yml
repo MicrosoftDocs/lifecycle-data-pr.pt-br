@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Gerenciador de dispositivos do Windows Embedded 2011
-  description: O Gerenciador de dispositivos do Windows Embedded 2011 segue a política de ciclo de vida fixo.
+  title: Windows Embedded Device Manager 2011
+  description: O Windows Embedded Device Manager 2011 segue a Política de Ciclo de Vida Fixa.
   ms.date: 09/01/2020
   keywords: Client,SDK,Server
   ms.openlocfilehash: 8d46a10b12894b95bfb25872c893b3148aa7a550
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939914"
-name: Gerenciador de dispositivos do Windows Embedded 2011
+name: Windows Embedded Device Manager 2011
 summary: >
-  O Gerenciador de dispositivos do Windows Embedded 2011 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Windows Embedded Device Manager 2011 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
   Isso se aplica às seguintes edições: Client, SDK, Server

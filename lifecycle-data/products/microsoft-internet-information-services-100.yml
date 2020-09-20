@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Serviços de informações da Internet 10,0 da Microsoft
-  description: Os serviços de informações da Internet 10,0 da Microsoft seguem a política de ciclo de vida do componente.
+  title: Serviços de Informações da Internet 10.0 da Microsoft
+  description: Os Serviços de Informações da Internet 10.0 da Microsoft seguem a Política de Ciclo de Vida de Componente.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6ee9b2824e6fd7cff445f978c3a6294e7784abcb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848222"
-name: Serviços de informações da Internet 10,0 da Microsoft
+name: Serviços de Informações da Internet 10.0 da Microsoft
 summary: >+
-  Os serviços de informações da Internet 10,0 da Microsoft seguem a política de ciclo de vida do [componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Os Serviços de Informações da Internet 10.0 da Microsoft seguem a Política de Ciclo de Vida de [Componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/12/2016
   endDate: 01/11/2027
-content: "\n\n> [!NOTE]\n> Este lançamento é conhecido como um componente que segue o ciclo de vida do suporte de seu produto principal pai, Windows Server 2016."
+content: "\n\n> [!NOTE]\n> Esta versão é conhecida como um Componente que segue o Ciclo de Vida de Suporte de seu Produto Principal pai, o Windows Server 2016."

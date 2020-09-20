@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Skype for Business Online
-  description: O Skype for Business online segue a política de ciclo de vida moderno.
+  description: O Skype for Business Online segue a Política de Ciclo de Vida Moderna.
   ms.date: 07/28/2020
   ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848483"
 name: Skype for Business Online
 summary: >
-  O Skype for Business online segue a política de ciclo de vida [moderno](/lifecycle/policies/modern) .
+  O Skype for Business Online segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 
   > [!IMPORTANT]
 
-  > Este serviço será desativado em 31 de julho de 2021. Veja a seguir as diretrizes de migração.
+  > Este serviço será desativado em 31 de julho de 2021. Veja as diretrizes de migração abaixo.
 products:
 - office
 policyType: modern-online

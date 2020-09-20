@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Gerenciador de operações do Microsoft System Center 2012 R2
-  description: O Microsoft System Center 2012 R2 Operations Manager segue a política de ciclo de vida fixo.
+  title: Microsoft System Center 2012 R2 Operations Manager
+  description: O Microsoft System Center 2012 R2 Operations Manager segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 57db6fbda015c2bbd55d4ec9621ed6cda6948a56
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848166"
-name: Gerenciador de operações do Microsoft System Center 2012 R2
+name: Microsoft System Center 2012 R2 Operations Manager
 summary: >+
-  O Microsoft System Center 2012 R2 Operations Manager segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Microsoft System Center 2012 R2 Operations Manager segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Forefront Identity Manager 2010
-  description: O Microsoft Forefront Identity Manager 2010 segue a política de ciclo de vida fixo.
+  description: O Microsoft Forefront Identity Manager 2010 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9b76ebc222ff94ed78ae77e18623f18557e8ac38
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "803739"
 name: Microsoft Forefront Identity Manager 2010
 summary: >+
-  O Microsoft Forefront Identity Manager 2010 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Microsoft Forefront Identity Manager 2010 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 10/11/2022
-content: "\n\n> [!NOTE]\n> O suporte principal e estendido para o Microsoft Forefront Identity Manager 2010 é estendido conforme mostrado para fornecer a todos os clientes a linha do tempo de transição de ciclo de vida padrão."
+content: "\n\n> [!NOTE]\n> Os suportes Base e Estendido do Microsoft Forefront Identity Manager 2010 foram prorrogados como mostrado para fornecer a todos os clientes a linha do tempo padrão de transição do ciclo de vida."

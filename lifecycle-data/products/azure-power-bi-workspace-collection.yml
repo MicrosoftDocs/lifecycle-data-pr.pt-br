@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Coleção de espaço de trabalho do Azure Power BI
-  description: O conjunto de espaço de trabalho do Azure Power BI segue a política de ciclo de vida moderna.
+  title: Coleção de Workspaces do Power BI do Azure
+  description: A Coleção de Workspaces do Power BI do Azure segue a Política de Ciclo de Vida Moderna.
   ms.date: 07/28/2020
   ms.openlocfilehash: a95f325fa895563c498eca76aaa2b7978d393473
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848096"
-name: Coleção de espaço de trabalho do Azure Power BI
+name: Coleção de Workspaces do Power BI do Azure
 summary: >
-  O conjunto de espaço de trabalho do Azure Power BI segue a política de ciclo de vida [moderna](/lifecycle/policies/modern) .
+  A Coleção de Workspaces do Power BI do Azure segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 
   > [!IMPORTANT]
 
-  > O suporte foi finalizado. Veja as diretrizes de migração abaixo.
+  > O suporte chegou ao fim. Veja as diretrizes de migração abaixo.
 products:
 - sql-server
 policyType: modern-online

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Report Viewer 2010 Redistributable
-  description: O Microsoft Report Viewer 2010 Redistributable segue a política de ciclo de vida fixo.
+  title: Microsoft Report Viewer 2010 Redistribuível
+  description: O Microsoft Report Viewer 2010 Redistribuível segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: f4e1569165a222cc013d2d9fd58074f6cef98816
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "803139"
-name: Microsoft Report Viewer 2010 Redistributable
+name: Microsoft Report Viewer 2010 Redistribuível
 summary: >+
-  O Microsoft Report Viewer 2010 Redistributable segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Microsoft Report Viewer 2010 Redistribuível segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 09/08/2020
-content: "\n## <a name=\"links\"></a>Links \n* [Informações do produto](/sql/reporting-services/application-integration/integrating-reporting-services-using-reportviewer-controls-get-started?view=sql-server-ver15)"
+content: "\n## <a name=\"links\"></a>Links \n* [Informações sobre o produto](/sql/reporting-services/application-integration/integrating-reporting-services-using-reportviewer-controls-get-started?view=sql-server-ver15)"

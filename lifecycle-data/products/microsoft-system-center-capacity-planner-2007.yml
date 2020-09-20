@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Planejador de capacidade do Microsoft System Center 2007
-  description: O Microsoft System Center Capacity Planner 2007 segue a política de ciclo de vida fixo.
+  title: Microsoft System Center Capacity Planner 2007
+  description: O Microsoft System Center Capacity Planner 2007 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 026bf977e513462e9f4e5cb0509144ac26e9b9f7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "803695"
-name: Planejador de capacidade do Microsoft System Center 2007
+name: Microsoft System Center Capacity Planner 2007
 summary: >
-  O Microsoft System Center Capacity Planner 2007 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Microsoft System Center Capacity Planner 2007 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > O suporte para este produto terminou.
+  > O suporte para esse produto foi encerrado.
 products:
 - msc
 policyType: fixed

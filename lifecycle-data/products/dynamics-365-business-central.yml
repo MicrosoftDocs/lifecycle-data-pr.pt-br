@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics 365 Business Central
-  description: O Dynamics 365 Business central segue a política de ciclo de vida moderna.
+  description: O Dynamics 365 Business Central segue a Política de Ciclo de Vida Moderna.
   ms.date: 07/28/2020
   ms.openlocfilehash: d4bcea33ffede77bb781ed2167ad9097af8fbe57
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848371"
 name: Dynamics 365 Business Central
 summary: >+
-  O Dynamics 365 Business central segue a política de ciclo de vida [moderna](/lifecycle/policies/modern) .
+  O Dynamics 365 Business Central segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2016
-content: "\n## <a name=\"links\"></a>Links \n* [Mapa do Microsoft Dynamics 365](https://aka.ms/businessappsreleasenotes)\n* [Informações de serviço](/dynamics365/business-central/dev-itpro/faq)\n* [Requisitos do sistema](/dynamics365/business-central/product-requirements)"
+content: "\n## <a name=\"links\"></a>Links \n* [Roteiro do Microsoft Dynamics 365](https://aka.ms/businessappsreleasenotes)\n* [Informações de manutenção](/dynamics365/business-central/dev-itpro/faq)\n* [Requisitos do sistema](/dynamics365/business-central/product-requirements)"

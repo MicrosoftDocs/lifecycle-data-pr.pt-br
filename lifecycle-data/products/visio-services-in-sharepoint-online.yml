@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Serviços do Visio no SharePoint Online
-  description: Os serviços do Visio no SharePoint Online seguem a política de ciclo de vida moderno.
+  description: Os Serviços do Visio no SharePoint Online seguem a Política de Ciclo de Vida Moderna.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a6c493769f21589c572611837326a9535f56840
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "803262"
 name: Serviços do Visio no SharePoint Online
 summary: >+
-  Os serviços do Visio no SharePoint Online seguem a política de ciclo de vida [moderno](/lifecycle/policies/modern) .
+  Os Serviços do Visio no SharePoint Online seguem a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 products:

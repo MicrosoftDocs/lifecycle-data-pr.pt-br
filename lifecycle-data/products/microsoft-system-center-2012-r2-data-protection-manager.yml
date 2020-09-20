@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Gerenciador de proteção de dados do Microsoft System Center 2012 R2
-  description: O Microsoft System Center 2012 R2 Data Protection Manager segue a política de ciclo de vida fixo.
+  title: Microsoft System Center 2012 R2 Data Protection Manager
+  description: O Microsoft System Center 2012 R2 Data Protection Manager segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: ed0d5ccd32c082afb84d8310d7497d11ffdfe0b0
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848402"
-name: Gerenciador de proteção de dados do Microsoft System Center 2012 R2
+name: Microsoft System Center 2012 R2 Data Protection Manager
 summary: >+
-  O Microsoft System Center 2012 R2 Data Protection Manager segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Microsoft System Center 2012 R2 Data Protection Manager segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:

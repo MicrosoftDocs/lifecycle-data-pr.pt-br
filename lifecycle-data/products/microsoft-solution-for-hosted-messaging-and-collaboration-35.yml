@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Solução da Microsoft para o Hosted Messaging and Collaboration 3,5
-  description: A solução da Microsoft para o Hosted Messaging and Collaboration 3,5 segue a política de ciclo de vida fixo.
+  title: Solução Microsoft para Sistema de Mensagens e Colaboração Hospedado 3.5
+  description: A Solução Microsoft para Sistema de Mensagens e Colaboração Hospedado 3.5 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: d7421b0e62de8f73f59e14a0986a880755bb6d59
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "803140"
-name: Solução da Microsoft para o Hosted Messaging and Collaboration 3,5
+name: Solução Microsoft para Sistema de Mensagens e Colaboração Hospedado 3.5
 summary: >+
-  A solução da Microsoft para o Hosted Messaging and Collaboration 3,5 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  A Solução Microsoft para Sistema de Mensagens e Colaboração Hospedado 3.5 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics 365 Commerce
-  description: O Dynamics 365 Commerce segue a política de ciclo de vida moderna.
+  description: O Dynamics 365 Commerce segue a Política de Ciclo de Vida Moderna.
   ms.date: 07/28/2020
   ms.openlocfilehash: caa3896b6ce5390654a79c694a018b6e5471d0ec
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "867587"
 name: Dynamics 365 Commerce
 summary: >+
-  O Dynamics 365 Commerce segue a política de ciclo de vida [moderna](/lifecycle/policies/modern) .
+  O Dynamics 365 Commerce segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 07/01/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Mapa do Microsoft Dynamics 365](https://roadmap.dynamics.com/)\n* [Para obter mais informações sobre a alteração de nome](https://dynamics.microsoft.com/retail-to-commerce/)\n\n> [!NOTE]\n> O varejo do Dynamics 365 agora é o Dynamics 365 Commerce"
+content: "\n## <a name=\"links\"></a>Links \n* [Roteiro do Microsoft Dynamics 365](https://roadmap.dynamics.com/)\n* [Para obter mais informações sobre a mudança de nome](https://dynamics.microsoft.com/retail-to-commerce/)\n\n> [!NOTE]\n> O Dynamics 365 Retail agora é o Dynamics 365 Commerce"

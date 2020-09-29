@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Genomics
-  description: O Microsoft genoma segue a política de ciclo de vida moderna.
+  description: O Microsoft Genomics segue a Política de Ciclo de Vida Moderna.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9f52d7baf49b2bad411cda9bc96706cfc39bd5c0
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "867555"
 name: Microsoft Genomics
 summary: >+
-  O Microsoft genoma segue a política de ciclo de vida [moderna](/lifecycle/policies/modern) .
+  O Microsoft Genomics segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2017
-content: "\n## <a name=\"links\"></a>Links \n* [Informações de serviço](/azure/genomics/version-release-history-genomics)"
+content: "\n## <a name=\"links\"></a>Links \n* [Informações de manutenção](/azure/genomics/version-release-history-genomics)"

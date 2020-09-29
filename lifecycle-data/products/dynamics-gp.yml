@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics GP
-  description: O Dynamics GP segue a política de ciclo de vida moderna.
+  description: O Dynamics GP segue a Política de Ciclo de Vida Moderna.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0e2eb777e87a54e4dd08f495ac1f08ac4adf83a6
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "867557"
 name: Dynamics GP
 summary: >+
-  O Dynamics GP segue a política de ciclo de vida [moderna](/lifecycle/policies/modern) .
+  O Dynamics GP segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 products:
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 10/07/2019
   endDate: 01/11/2028
-content: "\n## <a name=\"links\"></a>Links \n* [Mapa do Microsoft Dynamics 365](https://aka.ms/businessappsreleasenotes)\n* [Informações de serviço](/dynamics-gp/terms/lifecycle)"
+content: "\n## <a name=\"links\"></a>Links \n* [Roteiro do Microsoft Dynamics 365](https://aka.ms/businessappsreleasenotes)\n* [Informações de manutenção](/dynamics-gp/terms/lifecycle)"

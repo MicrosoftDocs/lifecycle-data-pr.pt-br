@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics CRM 3,0
-  description: O Dynamics CRM 3,0 segue a política de ciclo de vida fixo.
+  title: Dynamics CRM 3.0
+  description: O Dynamics CRM 3.0 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: c3ce2d0115f8129eb5f590a867fdef61ef896782
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "803878"
-name: Dynamics CRM 3,0
+name: Dynamics CRM 3.0
 summary: >+
-  O Dynamics CRM 3,0 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Dynamics CRM 3.0 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio LightSwitch 2011
-  description: O Visual Studio LightSwitch 2011 segue a política de ciclo de vida fixo.
+  description: O Visual Studio LightSwitch 2011 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 12d219b05d3e82323d3d5d7b6dae25393afc1afb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848344"
 name: Visual Studio LightSwitch 2011
 summary: >+
-  O Visual Studio LightSwitch 2011 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Visual Studio LightSwitch 2011 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2011
   endDate: 01/11/2022
-content: "\n## <a name=\"links\"></a>Links \n* [LightSwitch](/visualstudio/productinfo/visual-studio-lightswitch-support-announcement)\n* [Power Apps](https://powerapps.microsoft.com/)\n\n> [!NOTE]\n> O Visual Studio 2015 é a última versão do Visual Studio que inclui as ferramentas do LightSwitch. Recomendamos o uso do Microsoft PowerApps para qualquer desenvolvimento de novo aplicativo."
+content: "\n## <a name=\"links\"></a>Links \n* [LightSwitch](/visualstudio/productinfo/visual-studio-lightswitch-support-announcement)\n* [Power Apps](https://powerapps.microsoft.com/)\n\n> [!NOTE]\n> O Visual Studio 2015 é a última versão do Visual Studio que inclui as ferramentas LightSwitch. Recomendamos o uso do Microsoft PowerApps para qualquer desenvolvimento de novos aplicativos."

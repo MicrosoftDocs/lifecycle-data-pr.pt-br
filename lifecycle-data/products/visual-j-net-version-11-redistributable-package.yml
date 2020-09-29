@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Pacote redistribuível do Visual J# .NET versão 1,1
-  description: O pacote redistribuível do Visual J# .NET versão 1,1 segue a política de ciclo de vida fixo.
+  title: Pacote Redistribuível do Visual J# .NET Versão 1.1
+  description: O Pacote Redistribuível do Visual J# .NET Versão 1.1 segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5cd64a881e213e1db23e4d7a0f7fe32baf3d8b12
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "803260"
-name: Pacote redistribuível do Visual J# .NET versão 1,1
+name: Pacote Redistribuível do Visual J# .NET Versão 1.1
 summary: >+
-  O pacote redistribuível do Visual J# .NET versão 1,1 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Pacote Redistribuível do Visual J# .NET versão 1.1 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Serviço de contêiner do Azure
-  description: O serviço de contêiner do Azure segue a política de ciclo de vida moderna.
+  title: Serviço de Contêiner do Azure
+  description: O Serviço de Contêiner do Azure segue a Política de Ciclo de Vida Moderna.
   ms.date: 07/28/2020
   ms.openlocfilehash: 70f9cfee8138e47ca857cf32af6388be1518fdb1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848095"
-name: Serviço de contêiner do Azure
+name: Serviço de Contêiner do Azure
 summary: >+
-  O serviço de contêiner do Azure segue a política de ciclo de vida [moderna](/lifecycle/policies/modern) .
+  O Serviço de Contêiner do Azure segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 products:

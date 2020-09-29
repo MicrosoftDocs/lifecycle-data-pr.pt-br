@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Série Azure StorSimple 1200
-  description: A série Azure StorSimple 1200 segue a política de ciclo de vida fixo.
+  title: Série do Azure StorSimple 1200
+  description: O Azure StorSimple 1200 Series segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
   ms.openlocfilehash: 82f3a04f6c89120819c1db952a04ddbd45d4f9c9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848097"
-name: Série Azure StorSimple 1200
+name: Série do Azure StorSimple 1200
 summary: >+
-  A série Azure StorSimple 1200 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Azure StorSimple 1200 Series segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:

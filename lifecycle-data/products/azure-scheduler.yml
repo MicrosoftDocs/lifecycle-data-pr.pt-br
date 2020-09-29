@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Agendador do Azure
-  description: O Agendador do Azure segue a política de ciclo de vida moderna.
+  description: O Azure Scheduler segue a Política de Ciclo de Vida Moderna.
   ms.date: 07/28/2020
   ms.openlocfilehash: c5e6273a70a409fc5947fb69ea6103e771128747
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "848088"
 name: Agendador do Azure
 summary: >+
-  O Agendador do Azure segue a política de ciclo de vida [moderna](/lifecycle/policies/modern) .
+  O Azure Scheduler segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
 
 
 products:

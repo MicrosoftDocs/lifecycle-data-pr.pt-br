@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Princípios de aprendizagem v 1.5 com SCORM
-  description: O princípios de aprendizagem v 1.5 com SCORM segue a política de ciclo de vida do componente.
+  title: Learning Essentials v1.5 com SCORM
+  description: O Learning Essentials v1.5 com SCORM segue a Política de Ciclo de Vida de Componente.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7d1881def5a4b9f675b435cc766a3594b8ad7e56
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "803820"
-name: Princípios de aprendizagem v 1.5 com SCORM
+name: Learning Essentials v1.5 com SCORM
 summary: >+
-  O princípios de aprendizagem v 1.5 com SCORM segue a política de ciclo de vida do [componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  O Learning Essentials v1.5 com SCORM segue a Política de Ciclo de Vida de [Componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:

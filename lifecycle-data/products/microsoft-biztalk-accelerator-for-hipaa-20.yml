@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Acelerador de BizTalk da Microsoft para HIPAA 2,0
-  description: O Microsoft BizTalk Accelerator para HIPAA 2,0 segue a política de ciclo de vida fixo.
+  title: Microsoft BizTalk Accelerator para HIPAA 2.0
+  description: O Microsoft BizTalk Accelerator para HIPAA 2.0 segue a Política de Ciclo de Vida Fixa.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: aab9e80e120618a791c1636446425b56d9d36995
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: pt-BR
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935289"
-name: Acelerador de BizTalk da Microsoft para HIPAA 2,0
+name: Microsoft BizTalk Accelerator para HIPAA 2.0
 summary: >+
-  O Microsoft BizTalk Accelerator para HIPAA 2,0 segue a política de ciclo de vida [fixo](/lifecycle/policies/fixed) .
+  O Microsoft BizTalk Accelerator para HIPAA 2.0 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
   Isso se aplica às seguintes edições: Enterprise, Standard

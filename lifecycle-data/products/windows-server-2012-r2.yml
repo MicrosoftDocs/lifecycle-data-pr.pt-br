@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> O suporte Base e Estendido para este produto foi estendido para fornecer aos clientes a linha do tempo padrão de transição do ciclo de vida.\n\n## <a name=\"editions\"></a>Edições \n* Datacenter\n* Essentials\n* para Sistemas Embedded\n* Foundation\n* Padrão"
+content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> O suporte Base e Estendido para este produto foi estendido para fornecer aos clientes a linha do tempo padrão de transição do ciclo de vida.\n\n## <a name=\"editions\"></a>Edições \n* Datacenter\n* Essentials\n* para Sistemas Embedded\n* Foundation\n* Standard"

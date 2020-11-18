@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 04/12/2011
-content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Developer\n* Padrão"
+content: "\n## <a name=\"links\"></a>Links \n* [Diretrizes de migração](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)\n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Edições \n* Developer\n* Standard"

@@ -15,7 +15,7 @@ summary: >+
   O Visual Studio 2013 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isso se aplica às seguintes edições: Agents, Todos, Community, Express para Web, Express para Windows, Express para Áreas de Trabalho do Windows, Coletor IntelliTrace, SDK de Modelagem, Biblioteca Multibyte MFC, Premium, Professional, Release Management, Ferramentas Remotas, SDK, Shell (Integrado), Shell (Isolado), Team Explorer, Test Professional, Ultimate, Pacote Redistribuível do Visual C++, Web Tools Extensions
+  Isso se aplica às seguintes edições: Agents, Todas, Community, Express para Web, Express para Windows, Express para Áreas de Trabalho do Windows, Coletor IntelliTrace, SDK de Modelagem, Biblioteca Multibyte MFC, Premium, Professional, Release Management, Ferramentas Remotas, SDK, Shell (Integrado), Shell (Isolado), Team Explorer, Test Professional, Ultimate, Pacote Redistribuível do Visual C++, Web Tools Extensions
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Links \n* [Informações de manutenção](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edições \n* Agentes\n* Todas\n* Community\n* Express para Web\n* Express para Windows\n* Express para Área de Trabalho do Windows\n* Coletor IntelliTrace\n* SDK de Modelagem\n* Biblioteca Multibyte MFC\n* Premium\n* Professional\n* Release Management\n* Ferramentas Remotas\n* SDK\n* Shell (Integrado)\n* Shell (Isolado)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Pacote Redistribuível do Visual C++\n* Web Tools Extensions"
+content: "\n## <a name=\"links\"></a>Links \n* [Informações de manutenção](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Edições \n* Agents\n* Todas\n* Community\n* Express para Web\n* Express para Windows\n* Express para Área de Trabalho do Windows\n* Coletor IntelliTrace\n* SDK de Modelagem\n* Biblioteca Multibyte MFC\n* Premium\n* Professional\n* Release Management\n* Ferramentas Remotas\n* SDK\n* Shell (Integrado)\n* Shell (Isolado)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Pacote Redistribuível do Visual C++\n* Web Tools Extensions"

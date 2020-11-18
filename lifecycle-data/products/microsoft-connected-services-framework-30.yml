@@ -15,7 +15,7 @@ summary: >+
   O Microsoft Connected Services Framework 3.0 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
-  Isso se aplica às seguintes edições: Evento de Negócios Padrão de Cobrança, Evento de Negócios Padrão de Manuseio de Ordens, Servidor, Padrão, Servidor Padrão com Eventos de Negócios Padrão
+  Isso se aplica às seguintes edições: Evento de Negócios Padrão de Cobrança, Evento de Negócios Padrão de Manuseio de Ordens, Servidor, Standard, Servidor Padrão com Eventos de Negócios Padrão
 
 products:
 - connected-services-framework
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/30/2006
   endDate: 07/12/2016
-content: "\n\n\n## <a name=\"editions\"></a>Edições \n* Evento de Negócios Padrão de Cobrança\n* Evento de Negócios Padrão de Manuseio de Ordens\n* Servidor\n* Padrão\n* Servidor Padrão com Eventos de Negócios Padrão"
+content: "\n\n\n## <a name=\"editions\"></a>Edições \n* Evento de Negócios Padrão de Cobrança\n* Evento de Negócios Padrão de Manuseio de Ordens\n* Servidor\n* Standard\n* Servidor Padrão com Eventos de Negócios Padrão"

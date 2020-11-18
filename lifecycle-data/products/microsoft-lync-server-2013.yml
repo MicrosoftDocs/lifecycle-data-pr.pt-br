@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Links \n* [Informações sobre o produto](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> O Lync Phone Edition tem suporte no Lync Server 2010 e no Lync Server 2013. A data de suporte do Lync Phone Edition foi estendida por dois anos para se alinhar ao ciclo de vida do Lync Server 2013.\n\n## <a name=\"editions\"></a>Edições \n* Enterprise\n* Kit de Desenvolvimento de Software de Chat Persistente\n* Telefone\n* SDK\n* Padrão"
+content: "\n## <a name=\"links\"></a>Links \n* [Informações sobre o produto](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> O Lync Phone Edition tem suporte no Lync Server 2010 e no Lync Server 2013. A data de suporte do Lync Phone Edition foi estendida por dois anos para se alinhar ao ciclo de vida do Lync Server 2013.\n\n## <a name=\"editions\"></a>Edições \n* Enterprise\n* Kit de Desenvolvimento de Software de Chat Persistente\n* Telefone\n* SDK\n* Standard"

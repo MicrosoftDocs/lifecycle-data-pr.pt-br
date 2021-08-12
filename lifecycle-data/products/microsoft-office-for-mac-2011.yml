@@ -4,12 +4,12 @@ metadata:
   description: O Microsoft Office para Mac 2011 segue a Política de Ciclo de Vida Fixa.
   ms.date: 09/01/2020
   keywords: Academic,Home and Business,Home and Business Home Use Program,Home and Student,Standard
-  ms.openlocfilehash: 916b05553555af4525fb9c94660627d4aef386e6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 56c5f61385cbdeddafe8571c1439650f85b73f42bcc23bc840f246af69bbe957
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "933217"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2524178"
 name: Microsoft Office para Mac 2011
 summary: >+
   O Microsoft Office para Mac 2011 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Links \n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> O suporte Base do Microsoft Office para Mac 2011 é estendido como mostrado para fornecer a todos os clientes a linha do tempo padrão de transição do ciclo de vida.\n\n## <a name=\"editions\"></a>Edições \n* Academic\n* Home and Business\n* Home and Business Home Use Program\n* Home and Student\n* Standard"
+content: "\n## <a name=\"links\"></a>Links \n* [Política do service pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> O suporte Base do Microsoft Office para Mac 2011 é estendido como mostrado para fornecer a todos os clientes a linha do tempo padrão de transição do ciclo de vida.\n\n## <a name=\"editions\"></a>Edições \n* Academic\n* Home and Business\n* Home and Business Home Use Program\n* Home and Student\n* Padrão"

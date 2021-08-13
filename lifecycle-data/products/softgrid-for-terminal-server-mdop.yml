@@ -3,25 +3,25 @@ metadata:
   title: Softgrid for Terminal Server (MDOP)
   description: O Softgrid for Terminal Server (MDOP) segue a Política de Ciclo de Vida Fixa.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 678dd6057802afee1e92f8bba4296ee1b620a97d
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: pt-BR
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "803108"
 name: Softgrid for Terminal Server (MDOP)
-summary: >+
+summary: |+
   O Softgrid for Terminal Server (MDOP) segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 01/01/2007
   end: 01/12/2010
 releases:
-- version: Original Release
-  startDate: 01/01/2007
-  endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Links \n* [Perguntas frequentes sobre Ciclo de Vida — Geral](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Exclui as versões que perderam o suporte anteriormente. O suporte para este produto está sujeito aos termos de sua aquisição."
+  - version: Original Release
+    startDate: 01/01/2007
+    endDate: 01/12/2010
+content: |+
+
+  ## <a name="links"></a>Links 
+  * [Perguntas frequentes sobre Ciclo de Vida — Geral](/lifecycle/faq/general-lifecycle)
+
+  > [!NOTE]
+  > Exclui as versões que perderam o suporte anteriormente. O suporte para este produto está sujeito aos termos de sua aquisição.

@@ -3,24 +3,22 @@ metadata:
   title: Windows Phone 8
   description: O Windows Phone 8 segue a Política de Ciclo de Vida Fixa.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 414496ab55aa39619921de70d0df779cc4403a50
-  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: HT
-  ms.contentlocale: pt-BR
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "940773"
 name: Windows Phone 8
-summary: >+
+summary: |+
   O Windows Phone 8 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 12/14/2012
   end: 07/08/2014
 releases:
-- version: Original Release
-  startDate: 12/14/2012
-content: "\n\n> [!NOTE]\n> A Microsoft disponibilizará atualizações para o Sistema Operacional, incluindo atualizações de segurança, por um período mínimo de 36 meses após a data de início do ciclo de vida. Essas atualizações serão incrementais, e cada atualização amplia a atualização anterior a ela. Os clientes precisam instalar cada atualização para continuar com suporte. A distribuição dessas atualizações incrementais pode ser controlada pela operadora móvel ou pelo fabricante do qual você comprou seu telefone, e a instalação exigirá que o telefone tenha atualizações prévias. A disponibilidade das atualizações também varia conforme o país, a região e os recursos de hardware."
+  - version: Original Release
+    startDate: 12/14/2012
+content: |+
+
+
+  > [!NOTE]
+  > A Microsoft disponibilizará atualizações para o Sistema Operacional, incluindo atualizações de segurança, por um período mínimo de 36 meses após a data de início do ciclo de vida. Essas atualizações serão incrementais, e cada atualização amplia a atualização anterior a ela. Os clientes precisam instalar cada atualização para continuar com suporte. A distribuição dessas atualizações incrementais pode ser controlada pela operadora móvel ou pelo fabricante do qual você comprou seu telefone, e a instalação exigirá que o telefone tenha atualizações prévias. A disponibilidade das atualizações também varia conforme o país, a região e os recursos de hardware.

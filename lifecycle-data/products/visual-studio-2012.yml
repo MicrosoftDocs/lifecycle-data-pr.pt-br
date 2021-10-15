@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2012
   description: O Visual Studio 2012 segue a Política de Ciclo de Vida Fixa.
-  ms.date: 10/04/2021
+  ms.date: 10/11/2021
   keywords: 
-  ms.openlocfilehash: 9d4be228f6bc6fb4e6c418c13faa8886fcd045d1
-  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.openlocfilehash: 68a9d61205020193274f000d8aac5983e94b0b5d
+  ms.sourcegitcommit: e5d80ad2e1e33e12fda006a76248ec3fb74c7af6
   ms.translationtype: HT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "3509164"
+  ms.lasthandoff: 10/11/2021
+  ms.locfileid: "3514147"
 name: Visual Studio 2012
 summary: >+
   O Visual Studio 2012 segue a Política de Ciclo de Vida [Fixa](/lifecycle/policies/fixed).
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n\n## <a name=\"links\"></a>Links \n* [Informações de manutenção para versões mais antigas do Visual Studio](/visualstudio/releases/2019/servicing#support-for-older-versions-of-visual-studio)\n* [Política do Service Pack](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> As versões do Visual Studio 2012 dos seguintes componentes são fornecidas e têm suporte como parte do ciclo de vida do Visual Studio 2012: Agentes, Coletor IntelliTrace, Ferramentas do Microsoft Azure, Ferramentas Remotas, SDK, Shell (Integrado), Shell (Isolado), SQL Server Data Tools, Team Explorer, Pacote Redistribuível do Visual C++, Web Tools Extensions.\n\n\n## <a name=\"editions\"></a>Edições \n* Express para Web\n* Express para Área de Trabalho do Windows\n* Premium\n* Professional\n* Team Explorer\n* Ultimate"
+content: "\n\n## <a name=\"links\"></a>Links \n* [Informações de manutenção para versões mais antigas do Visual Studio](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> As versões do Visual Studio 2012 dos seguintes componentes são fornecidas e têm suporte como parte do ciclo de vida do Visual Studio 2012: Agentes, Coletor IntelliTrace, Ferramentas do Microsoft Azure, Ferramentas Remotas, SDK, Shell (Integrado), Shell (Isolado), SQL Server Data Tools, Team Explorer, Pacote Redistribuível do Visual C++, Web Tools Extensions.\n\n\n## <a name=\"editions\"></a>Edições \n* Express para Web\n* Express para Área de Trabalho do Windows\n* Premium\n* Professional\n* Team Explorer\n* Ultimate"

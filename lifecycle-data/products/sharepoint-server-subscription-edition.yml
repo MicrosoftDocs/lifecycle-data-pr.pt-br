@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Edição de Assinatura do SharePoint Server
+  description: O SharePoint Server Subscription Edition segue a Política de Ciclo de Vida Moderna.
+  ms.date: 10/19/2021
+  keywords: 
+  ms.openlocfilehash: 3e5e5eb0b969e8d18a37532e4b5750be288bcebf
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.translationtype: HT
+  ms.contentlocale: pt-BR
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546741"
+name: Edição de Assinatura do SharePoint Server
+summary: >+
+  O SharePoint Server Subscription Edition segue a Política de Ciclo de Vida [Moderna](/lifecycle/policies/modern).
+
+
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 11/02/2021
+releases:
+- version: Original Release
+  startDate: 11/02/2021
+content: "\n\n\n\n> [!NOTE]\n> Consulte a documentação do [produto](https://docs.microsoft.com/sharepoint/sharepoint-server) e do [desenvolvedor](https://docs.microsoft.com/sharepoint/dev/)."

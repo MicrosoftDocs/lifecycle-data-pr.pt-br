@@ -1,13 +1,13 @@
 ---
 title: Produtos que atingirão o fim do suporte em 2016
 description: Saiba quais produtos serão desativados, chegarão ao fim do suporte ou serão transferidos do suporte base para o suporte estendido em 2016.
-ms.date: 09/17/2021
-ms.openlocfilehash: 173d56e15247cd3bb3e31ece82f9aa2d05a54146
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 01/14/2022
+ms.openlocfilehash: 02f886067fe5d4199a1f0e5f4505c6afa5cd6194
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4027500"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117540"
 ---
 # <a name="products-ending-support-in-2016"></a>Produtos que chegarão ao fim do suporte em 2016
 
@@ -20,13 +20,6 @@ Se você tiver alguma dúvida sobre o suporte para um produto, entre em contato 
 
 
 
-## <a name="release-end-of-servicing"></a>Fim da Manutenção da Versão
-
-Os produtos e versões a seguir, regidos pela [Política Moderna](/lifecycle/policies/modern), chegarão ao fim do suporte em 2016.
-
-| Produto | Fim da Manutenção |
-| --- | --- |
-| [Microsoft Endpoint Configuration Manager, Versão 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | quinta-feira, 8 de dezembro de 2016 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Produtos que chegarão ao Fim do Suporte

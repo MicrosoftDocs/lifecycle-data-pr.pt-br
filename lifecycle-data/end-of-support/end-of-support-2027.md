@@ -1,13 +1,13 @@
 ---
 title: Produtos que atingirão o fim do suporte em 2027
 description: Saiba quais produtos serão desativados, chegarão ao fim do suporte ou serão transferidos do suporte base para o suporte estendido em 2027.
-ms.date: 08/25/2021
-ms.openlocfilehash: c4dd10c91b7fbc0378c2b653edaeb485a8829222
-ms.sourcegitcommit: 45b05baa69f8e2288d323e8324b0113adadda463
+ms.date: 03/09/2022
+ms.openlocfilehash: c9c996d5f6ea11d9d413b309dd3bb4e673b02a14
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/25/2021
-ms.locfileid: "4027489"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117022"
 ---
 # <a name="products-ending-support-in-2027"></a>Produtos que chegarão ao fim do suporte em 2027
 
@@ -29,8 +29,15 @@ Os produtos e versões a seguir, regidos pela [Política Fixa](/lifecycle/polici
 | Produto | Fim do suporte |
 | --- | --- |
 | [BizTalk Server 2016](/lifecycle/products/biztalk-server-2016?branch=live)<br>[Dynamics NAV 2017](/lifecycle/products/dynamics-nav-2017?branch=live)<br>[Microsoft Host Integration Server 2016](/lifecycle/products/microsoft-host-integration-server-2016?branch=live)<br>[System Center 2016 Data Protection](/lifecycle/products/system-center-2016-data-protection?branch=live)<br>[System Center 2016 Operations Manager](/lifecycle/products/system-center-2016-operations-manager?branch=live)<br>[System Center 2016 Orchestrator](/lifecycle/products/system-center-2016-orchestrator?branch=live)<br>[System Center 2016 Service Manager](/lifecycle/products/system-center-2016-service-manager?branch=live)<br>[System Center 2016 Virtual Machine Manager](/lifecycle/products/system-center-2016-virtual-machine-manager?branch=live)<br>[Visual Studio Team Foundation Server 2017](/lifecycle/products/visual-studio-team-foundation-server-2017?branch=live)<br> | segunda-feira, 11 de janeiro de 2027 |
-| [HPC Pack 2016](/lifecycle/products/hpc-pack-2016?branch=live)<br>[Hyper-V Server 2016](/lifecycle/products/hyperv-server-2016?branch=live)<br>[IIS (Serviços de Informações da Internet), IIS 10 no Windows Server 2016](/lifecycle/products/internet-information-services-iis?branch=live)<br>[Microsoft System Center Configuration Manager (LTSB — versão 1606)](/lifecycle/products/microsoft-system-center-configuration-manager-ltsb-version-1606?branch=live)<br>[Pacote do Microsoft Azure (no Windows Server 2016)](/lifecycle/products/windows-azure-pack-on-windows-server-2016?branch=live)<br>[Windows Defender para Windows Server 2016](/lifecycle/products/windows-defender-for-windows-server-2016?branch=live)<br>[Windows Server 2016](/lifecycle/products/windows-server-2016?branch=live)<br>[Windows Server Update Services para Windows Server 2016](/lifecycle/products/windows-server-update-services-for-windows-server-2016?branch=live)<br>[Windows Storage Server 2016](/lifecycle/products/windows-storage-server-2016?branch=live)<br> | terça-feira, 12 de janeiro de 2027 |
+| [HPC Pack 2016](/lifecycle/products/hpc-pack-2016?branch=live)<br>[Hyper-V Server 2016](/lifecycle/products/hyperv-server-2016?branch=live)<br>[IIS (Serviços de Informações da Internet), IIS 10 no Windows Server 2016](/lifecycle/products/internet-information-services-iis?branch=live)<br>[Microsoft System Center Configuration Manager (LTSB — versão 1606)](/lifecycle/products/microsoft-system-center-configuration-manager-ltsb-version-1606?branch=live)<br>[Windows 10 Enterprise LTSC 2021](/lifecycle/products/windows-10-enterprise-ltsc-2021?branch=live)<br>[Pacote do Microsoft Azure (no Windows Server 2016)](/lifecycle/products/windows-azure-pack-on-windows-server-2016?branch=live)<br>[Windows Defender para Windows Server 2016](/lifecycle/products/windows-defender-for-windows-server-2016?branch=live)<br>[Windows Server 2016](/lifecycle/products/windows-server-2016?branch=live)<br>[Windows Server Update Services para Windows Server 2016](/lifecycle/products/windows-server-update-services-for-windows-server-2016?branch=live)<br>[Windows Storage Server 2016](/lifecycle/products/windows-storage-server-2016?branch=live)<br> | terça-feira, 12 de janeiro de 2027 |
 | [Visual Studio 2017](/lifecycle/products/visual-studio-2017?branch=live)<br> | terça-feira, 13 de abril de 2027 |
 | [SQL Server 2017](/lifecycle/products/sql-server-2017?branch=live)<br> | terça-feira, 12 de outubro de 2027 |
 
 
+## <a name="products-moving-to-extended-support"></a>Produtos sendo migrados para o Suporte Estendido
+
+Os produtos a seguir serão transferidos do Suporte Base para o Estendido em 2027. O Suporte Estendido inclui atualizações de segurança sem custo e atualizações e suporte de não segurança pagos. Além disso, a Microsoft não aceitará solicitações de alterações de design ou novos recursos durante a fase de Suporte Estendido.
+
+| Produto | Fim do suporte base |
+| --- | --- |
+| [Aplicativos do Dynamics 365 for Customer Engagement, versão 9 (atualização local)](/lifecycle/products/dynamics-365-for-customer-engagement-apps-version-9-onpremises-update?branch=live)<br>[Visual Studio 2022 ](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT Enterprise LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | terça-feira, 12 de janeiro de 2027 |

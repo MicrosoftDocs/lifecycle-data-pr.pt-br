@@ -1,13 +1,13 @@
 ---
 title: Produtos que atingirão o fim do suporte em 2014
 description: Saiba quais produtos serão desativados, chegarão ao fim do suporte ou serão transferidos do suporte base para o suporte estendido em 2014.
-ms.date: 08/11/2021
-ms.openlocfilehash: 6dede11fc813825dd096d7fbfa49e6c25ad15b9d
-ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+ms.date: 07/26/2022
+ms.openlocfilehash: 1a767b8ab82e08e49e07aac1d60e0b2eff42f412
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "4027481"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518329"
 ---
 # <a name="products-ending-support-in-2014"></a>Produtos que chegarão ao fim do suporte em 2014
 

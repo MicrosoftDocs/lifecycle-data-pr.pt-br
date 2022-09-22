@@ -2,22 +2,26 @@
 metadata:
   title: Barramento de Serviço para Windows Server
   description: O Barramento de Serviço para Windows Server segue a Política de Ciclo de Vida do Componente.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2d94e7c188c7164e0f7be80bc8eca33c3ede0edf
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 2022/03/24
+  keywords: 
+  ms.openlocfilehash: c8a4ac8dc6f815bcc7b2a8caeb9d42bb1bf2aa7e
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: pt-BR
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4147621"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518810"
 name: Barramento de Serviço para Windows Server
-summary: >
+summary: >+
   O Barramento de Serviço para Windows Server segue a Política de Ciclo de Vida do [Componente](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
+
+
 
 
 
   > [!IMPORTANT]
 
-  > Quando o Barramento de Serviço 1.1 for um componente do SharePoint Server 2016 ou do SharePoint Server 2013, ele terá suporte de acordo com as datas de término de suporte da respectiva versão do SharePoint Server.
+  > O Barramento de Serviço 1.1 é um componente da Edição de Assinatura do SharePoint Server, do SharePoint Server 2019, do SharePoint Server 2016 e do SharePoint Server 2013 e segue o ciclo de vida de seu produto pai.
+
 products:
 - windows
 policyType: component
